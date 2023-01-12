@@ -5,5 +5,6 @@ public class Main {
         System.out.println("Hello World!");
         System.out.println("Hello World!");
         System.out.println("LOG INFO");
+        System.out.println("ADDITIONAL LOG INFO");
     }
 }
